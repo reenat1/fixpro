@@ -444,7 +444,7 @@ body {
 
 .services__card-btn:hover,
 .services__card-btn:active {
-    background: rgb(189, 189, 189);
+    background: rgb(227, 227, 227);
 }
 
 @media (min-width: 900px) {
@@ -1153,4 +1153,5 @@ body {
 .modal--active {
     pointer-events: auto;
     opacity: 1;
+
 }
